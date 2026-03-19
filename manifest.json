@@ -1,0 +1,26 @@
+{
+  "name": "Team21 Academy Bible School",
+  "short_name": "T21 Bible",
+  "description": "A bilingual Bible school by Team21 Academy — study Scripture, grow in faith, earn certificates.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a1005",
+  "theme_color": "#1a1005",
+  "lang": "en",
+  "categories": ["education", "books", "lifestyle"],
+  "icons": [
+    { "src": "assets/icons/icon-72.png",   "sizes": "72x72",   "type": "image/png" },
+    { "src": "assets/icons/icon-96.png",   "sizes": "96x96",   "type": "image/png" },
+    { "src": "assets/icons/icon-128.png",  "sizes": "128x128", "type": "image/png" },
+    { "src": "assets/icons/icon-144.png",  "sizes": "144x144", "type": "image/png" },
+    { "src": "assets/icons/icon-152.png",  "sizes": "152x152", "type": "image/png" },
+    { "src": "assets/icons/icon-192.png",  "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "assets/icons/icon-384.png",  "sizes": "384x384", "type": "image/png" },
+    { "src": "assets/icons/icon-512.png",  "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "screenshots": [
+    { "src": "assets/screenshot-home.png", "sizes": "480x854", "type": "image/png", "label": "Home Screen" },
+    { "src": "assets/screenshot-lesson.png", "sizes": "480x854", "type": "image/png", "label": "Lesson View" }
+  ]
+}
